@@ -7,5 +7,7 @@ public class MyClass {
         System.out.println(mySubClass.superClassStr);
         mySubClass.subClassMethod();
         mySubClass.printWhatDoYouWant();
+        mySubClass.commentMethod();
+        mySubClass.subCommentMethod();
     }
     }

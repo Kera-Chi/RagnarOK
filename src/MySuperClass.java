@@ -16,6 +16,11 @@ public class MySuperClass {
         System.out.println("大哥方法2");
     }
 
+    public void commentMethod() {
+
+        System.out.println("老大方法之－印字串啦");
+    }
+
     public static void main(String[] args) {
     }
 }
