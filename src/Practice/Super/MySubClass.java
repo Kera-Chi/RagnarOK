@@ -1,6 +1,6 @@
-package Super0326;
+package Practice.Super;
 
-public class MySubClass extends MySuperClass{
+public class MySubClass extends MySuperClass {
 
     String sameName = "我是小弟Str";
 

@@ -1,4 +1,5 @@
-package Super0326;
+package Super;
+import Practice.Super.MySubClass;
 
 public class MyClass {
 
