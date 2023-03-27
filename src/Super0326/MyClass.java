@@ -1,3 +1,5 @@
+package Super0326;
+
 public class MyClass {
 
     public static void main(String[] args) {

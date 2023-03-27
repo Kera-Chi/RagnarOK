@@ -1,3 +1,5 @@
+package Super0326;
+
 public class MySuperClass {
 
     String superClassStr = "大哥字串hi";

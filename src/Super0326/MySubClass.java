@@ -1,3 +1,5 @@
+package Super0326;
+
 public class MySubClass extends MySuperClass{
 
     String sameName = "我是小弟Str";
