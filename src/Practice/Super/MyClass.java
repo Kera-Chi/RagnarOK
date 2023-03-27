@@ -1,8 +1,4 @@
-<<<<<<<< HEAD:src/Super0326/MyClass.java
-package Super0326;
-========
-package Super;
->>>>>>>> 2143f0f (refactor the file location):src/Super/MyClass.java
+package Practice.Super;
 
 public class MyClass {
 

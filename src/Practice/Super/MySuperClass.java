@@ -1,12 +1,8 @@
-<<<<<<<< HEAD:src/Super0326/MySuperClass.java
-package Super0326;
-========
-package Super;
->>>>>>>> 2143f0f (refactor the file location):src/Super/MySuperClass.java
+package Practice.Super;
 
 public class MySuperClass {
 
-    String superClassStr = "大哥字串hi";
+    public String superClassStr = "大哥字串hi";
     String sameName = "我是老大Str";
 
     public MySuperClass(String hello) {
