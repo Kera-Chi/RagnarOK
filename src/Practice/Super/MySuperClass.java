@@ -3,7 +3,7 @@ package Practice.Super;
 public class MySuperClass {
 
     public String superClassStr = "大哥字串hi";
-    String sameName = "我是老大Str";
+    protected String sameName = "我是老大Str";
 
     public MySuperClass(String hello) {
         System.out.println("大哥控制器！");

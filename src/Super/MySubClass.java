@@ -1,10 +1,9 @@
-<<<<<<<< HEAD:src/Super0326/MySubClass.java
-package Super0326;
-========
-package Super;
->>>>>>>> 2143f0f (refactor the file location):src/Super/MySubClass.java
 
-public class MySubClass extends MySuperClass{
+package Super;
+
+import Practice.Super.MySuperClass;
+
+public class MySubClass extends MySuperClass {
 
     String sameName = "我是小弟Str";
 
