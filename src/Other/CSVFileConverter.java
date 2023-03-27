@@ -1,3 +1,5 @@
+package Other;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
@@ -10,7 +12,7 @@ import java.util.Date;
 public class CSVFileConverter {
 
     public static void main(String[] args) {
-        String filePath = "/Users/kera/Desktop/Test.csv"; // 替換為實際的檔案路徑
+        String filePath = "/Users/kera/Desktop/Other.Test.csv"; // 替換為實際的檔案路徑
         String outputPath = "/Users/kera/Desktop/TestOK.csv"; // 替換為實際的輸出檔案路徑
         String dateColumnName = "上課日期"; // 替換為實際的日期欄位名稱
 
