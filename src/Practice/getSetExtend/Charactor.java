@@ -1,4 +1,4 @@
-package getSet;
+package Practice.getSetExtend;
 
 public class Charactor {
     private int hp;

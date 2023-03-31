@@ -1,4 +1,4 @@
-package getSet;
+package Practice.getSetExtend;
 
 public class Knight extends Charactor{
     public void attack() {

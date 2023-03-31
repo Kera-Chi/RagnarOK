@@ -1,4 +1,4 @@
-package getSet;
+package Practice.getSetExtend;
 
 public class MyClass {
 
@@ -9,6 +9,7 @@ public class MyClass {
 //        System.out.println(getSet.getMyBoss());
 //
 //    }
+    //0331
 
     public static void main(String[] args) {
 

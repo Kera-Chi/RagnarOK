@@ -1,4 +1,4 @@
-package getSet;
+package Practice.getSetExtend;
 
 public class Magician extends Charactor {
     public void attack() {
